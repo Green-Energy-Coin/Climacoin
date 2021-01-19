@@ -1,0 +1,9 @@
+Building ClimaCoin
+
+See doc/readme-qt.rst for instructions on building ClimaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ClimaCoin.
+
+See doc/build-*.txt for instructions on building climacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ClimaCoin.

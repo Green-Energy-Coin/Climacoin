@@ -1,0 +1,5 @@
+climacoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/climacoin-qt.desktop usr/share/applications
+debian/climacoin-qt.protocol usr/share/kde4/services/
